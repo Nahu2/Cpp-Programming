@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1730167399 source:c:\users\macha\onedrive\desktop\nahu\uni\fall 2024\eel 3370 (c++ prog)\object slicing\main.cpp
+	<iostream>
+	"Object Slicing.h"
+
+1730167442 c:\users\macha\onedrive\desktop\nahu\uni\fall 2024\eel 3370 (c++ prog)\object slicing\object slicing.h
+	<iostream>
+	<string>
+	<Ctime>
+
+1730167399 source:c:\users\macha\onedrive\desktop\nahu\uni\fall 2024\eel 3370 (c++ prog)\object slicing\object slicing.cpp
+	"Object Slicing.h"
+
