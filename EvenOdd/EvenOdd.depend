@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1726705031 source:c:\users\macha\onedrive\desktop\nahu\uni\fall 2024\eel 3370 (c++ prog)\evenodd\evenodd.cpp
+	"EvenOdd.h"
+
+1726705031 c:\users\macha\onedrive\desktop\nahu\uni\fall 2024\eel 3370 (c++ prog)\evenodd\evenodd.h
+	<iostream>
+
+1726705031 source:c:\users\macha\onedrive\desktop\nahu\uni\fall 2024\eel 3370 (c++ prog)\evenodd\main.cpp
+	<iostream>
+	"EvenOdd.h"
+
