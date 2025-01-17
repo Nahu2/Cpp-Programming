@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1726536355 source:c:\users\macha\onedrive\desktop\nahu\uni\fall 2024\eel 3370 (c++ prog)\celsiustofahrenheit\main.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+
